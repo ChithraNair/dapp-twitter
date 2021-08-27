@@ -1,2 +1,1 @@
-# dapp-twitter
-Using ChainLink to connect to twitter
+# twitter-promotion-dapp
